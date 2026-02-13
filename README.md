@@ -40,4 +40,4 @@ Importance of data types
 Measures vs Columns
 Common data cleaning steps in BI
 If you want,
-I can also send transformation_notes.txt content ready-made for submission 🔥
+I can also send transformation_notes.txt content ready-made for submission 
